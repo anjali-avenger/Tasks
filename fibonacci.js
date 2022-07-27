@@ -28,3 +28,4 @@ function fibonacci()
   }
 }
 fibonacci();
+// fibonacci series add last 2 consecutive numbers to get the new element.
